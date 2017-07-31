@@ -1,0 +1,10 @@
+<html>
+<body>
+<tr>
+    <td>${admin.id}</td>
+    <td>${admin.name}</td>
+    <td>${admin.pass}</td>
+    <td>${admin.last_login}</td>
+</tr>
+</body>
+</html>
